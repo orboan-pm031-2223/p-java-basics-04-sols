@@ -1,4 +1,4 @@
-# Activitat: p-java-basics-02
+# Activitat: p-java-basics-03
 
 ### Instruccions
 
@@ -28,5 +28,5 @@ Hi ha 3 notebooks, un per a cada nivell.
 
 Heu d'escriure les respostes als espais indicats a cada notebook.
 
-**TOTES LES RESPOSTES S'HAN D'EXPLICAR I JUSTIFICAR.**
+**TOTES LES RESPOSTES S'HAN D'EXPLICAR I JUSTIFICAR**. Podeu fer servir markdown o comentaris Java per a fer les vostres explicacions i justificacions.
 
