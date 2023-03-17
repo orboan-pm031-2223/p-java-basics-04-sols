@@ -1,4 +1,4 @@
-# Activitat: p-java-basics-04
+# Activitat: p-java-basics-04 (solucions)
 
 ### Instruccions
 
